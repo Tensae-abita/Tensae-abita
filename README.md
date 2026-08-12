@@ -1,5 +1,9 @@
-<h1 align="center">Hi, I'm Tensae Abita Birhanu 👋</h1>
-<h3 align="center">Full-Stack Developer & Entrepreneur — Venice, Italy 🇮🇹</h3>
+<h1 align="center">Tensae Abita Birhanu 👋</h1>
+
+<p align="center">
+  <strong>Full-Stack Engineer · Product Builder · Former CTO</strong><br>
+  Venice, Italy 🇮🇹
+</p>
 
 <p align="center">
   <a href="https://tensae-abita-portfolio.vercel.app">
@@ -8,80 +12,78 @@
   <a href="mailto:tensuabita0@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 🚀 About Me
+### 👨‍💻 About
 
-I'm a full-stack developer with 5+ years of experience across web, mobile, 3D, decentralized apps, and algorithmic trading systems. Formerly CTO at **CocaiExpress** (~3 years), where I led the full product build and shipped to the App Store and Google Play. Right now I'm building two of my own products and preparing to go full-time freelance on Toptal / Arc.dev.
+Full-Stack Engineer and product builder with **5+ years of experience** building production web, mobile, SaaS, marketplace, fintech, and automation systems.
 
-Currently based in Venice, Italy, finishing a BSc in Economics & Finance at Ca' Foscari University alongside my dev work.
+Former **CTO at CocaiExpress**, where I led product and engineering and helped build a platform serving **20,000+ users**.
 
----
-
-### 🧩 Expertise
-
-- 🌐 **Web development** — full stack, frontend to backend
-- 📱 **Hybrid mobile app development** — Flutter & React Native
-- 🎮 **3D website development** — Three.js
-- 🔗 **Decentralized app (dApp) development** — Motoko on the Internet Computer
-- 🏢 **Ex-CTO @ CocaiExpress** — led product & engineering for ~3 years
-- 🖥️ **.NET / C#** — application development
-- 📊 **MT5 algo trading bots** — MQL5 Expert Advisors with full notification systems
+I specialize in taking products **from idea → architecture → development → deployment → scale**.
 
 ---
 
-### 🛠️ Building Right Now
+### ⚡ Expertise
 
-**[LotIQ.io](https://lotiq.io)** — Algorithmic trading SaaS
-Copy-trading platform built on MetaTrader 5 / MetaAPI / CopyFactory, with Stripe & PayPal subscription billing, EA management, and a full React dashboard with light/dark theming. Backend on PostgreSQL (Neon) + Railway, frontend on Vercel.
+**🌐 Full-Stack Development**
+React · TypeScript · JavaScript · Node.js · Express · REST APIs
 
-**Habesha Connect** — P2P diaspora delivery marketplace
-Flutter + Node.js marketplace connecting travelers with people needing items delivered internationally. Features Stripe Connect escrow, real-time chat via Socket.io, a mutual review system, and AviationStack flight tracking for delivery matching.
+**📱 Mobile Development**
+Flutter · React Native · iOS · Android
 
----
+**🏗️ Backend & Architecture**
+Node.js · PostgreSQL · MySQL · Prisma · API Design · Authentication · Real-Time Systems
 
-### 💻 Tech Stack
+**💳 FinTech & Payments**
+Stripe · Stripe Connect · PayPal · Subscriptions · Payment Systems
 
-**Frontend & Mobile**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+**🗺️ Logistics & Location**
+Mapbox · Geolocation · Route & Delivery Systems · Real-Time Tracking
 
-**Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+**📊 SaaS & Product Engineering**
+Dashboards · Multi-user Systems · Third-party Integrations · Cloud Deployment
 
-**Web3 / dApps**
-![Motoko](https://img.shields.io/badge/Motoko-3B00B9?style=flat-square)
-![Internet Computer](https://img.shields.io/badge/Internet_Computer-29ABE2?style=flat-square)
+**🤖 Algorithmic Trading**
+MQL5 · MetaTrader 5 · MetaAPI · Copy Trading · Trading Automation
 
-**Trading / Finance**
-![MQL5](https://img.shields.io/badge/MQL5-EA_Development-orange?style=flat-square)
-![MetaTrader5](https://img.shields.io/badge/MetaTrader_5-1E88E5?style=flat-square)
+**🎮 Other Technologies**
+Three.js · .NET · C# · Web3 / Internet Computer · Motoko
 
 ---
 
-### 📈 GitHub Stats
+### 🚀 Currently Building
+
+**[LotIQ.io](https://lotiq.io)** — Algorithmic trading SaaS for MetaTrader 5.
+
+**Habesha Connect** — P2P international delivery marketplace built with Flutter and Node.js.
+
+---
+
+### 🛠️ Core Stack
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A8?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/MQL5-1E88E5?style=flat-square" />
+</p>
+
+---
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tensae-abita&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Tensae-abita&theme=tokyonight" />
+  <i>Building products that solve real problems.</i>
 </p>
-
----
-
-### 🎯 Currently
-
-- 🧠 Grinding LeetCode daily (arrays, binary search, strings) ahead of Toptal / Arc.dev vetting
-- 🔍 Open to select freelance engagements — full-stack web & mobile, trading systems, marketplace platforms
-- 📫 Reach me at **tensuabita0@gmail.com**
-
-<p align="center"><i>Building in public, one commit at a time.</i></p>
