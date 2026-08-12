@@ -12,7 +12,7 @@
   <a href="mailto:tensuabita0@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com">
+  <a href="https://www.linkedin.com](https://www.linkedin.com/in/tensae-birhanu-b546b2225/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
