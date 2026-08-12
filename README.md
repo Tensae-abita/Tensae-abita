@@ -87,45 +87,6 @@ Three.js · .NET · C# · Web3 · Internet Computer · Motoko
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Tensae-abita&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" alt="Tensae's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tensae-abita&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=Tensae-abita&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
-
-</div>
-
-> These cards pull live from the shared `github-readme-stats.vercel.app` instance. It occasionally hits rate limits under heavy public traffic and shows a broken image for a few minutes — that's the third-party service, not your profile. If it ever stays broken, [fork and self-host it on your own free Vercel account](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) for a dedicated, always-up instance.
-
----
-
-<div align="center">
-
-### 💬 Let's build something
-
-<a href="https://tensae-abita-portfolio.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
-<a href="https://www.linkedin.com/in/tensae-birhanu-b546b2225/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:tensuabita0@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Tensae-abita&style=flat-square&color=00C9FF&label=Profile+Views" alt="Profile view counter" />
-
-<br/><br/>
-
-<i>Building products that solve real problems.</i>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:2C5364,100:0F2027&height=100&section=footer" width="100%" alt="Footer wave"/>
-
-</div>
+<p align="center">
+  <i>Building products that solve real problems.</i>
+</p>
