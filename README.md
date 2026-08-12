@@ -9,11 +9,11 @@
   <a href="https://tensae-abita-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/tensae-birhanu-b546b2225/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="mailto:tensuabita0@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com](https://www.linkedin.com/in/tensae-birhanu-b546b2225/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
@@ -25,7 +25,7 @@ Full-Stack Engineer and product builder with **5+ years of experience** building
 
 Former **CTO at CocaiExpress**, where I led product and engineering and helped build a platform serving **20,000+ users**.
 
-I specialize in taking products **from idea → architecture → development → deployment → scale**.
+I specialize in taking products from **idea → architecture → development → deployment**.
 
 ---
 
@@ -37,23 +37,23 @@ React · TypeScript · JavaScript · Node.js · Express · REST APIs
 **📱 Mobile Development**
 Flutter · React Native · iOS · Android
 
-**🏗️ Backend & Architecture**
+**🏗️ Backend & System Architecture**
 Node.js · PostgreSQL · MySQL · Prisma · API Design · Authentication · Real-Time Systems
 
 **💳 FinTech & Payments**
 Stripe · Stripe Connect · PayPal · Subscriptions · Payment Systems
 
-**🗺️ Logistics & Location**
-Mapbox · Geolocation · Route & Delivery Systems · Real-Time Tracking
+**🗺️ Logistics & Location Systems**
+Mapbox · Geolocation · Delivery Systems · Route Optimization · Real-Time Tracking
 
 **📊 SaaS & Product Engineering**
-Dashboards · Multi-user Systems · Third-party Integrations · Cloud Deployment
+SaaS Platforms · Dashboards · Third-Party Integrations · Cloud Deployment
 
 **🤖 Algorithmic Trading**
 MQL5 · MetaTrader 5 · MetaAPI · Copy Trading · Trading Automation
 
-**🎮 Other Technologies**
-Three.js · .NET · C# · Web3 / Internet Computer · Motoko
+**🎮 Additional Experience**
+Three.js · .NET · C# · Web3 · Internet Computer · Motoko
 
 ---
 
