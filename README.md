@@ -14,7 +14,7 @@
 
 ### 🚀 About Me
 
-I'm a full-stack developer with 5+ years building production apps across fintech, marketplaces, and mobile. Formerly CTO at **CocaiExpress** (~3 years), where I led the full product build and shipped to the App Store and Google Play. Right now I'm building two of my own products and preparing to go full-time freelance on Toptal / Arc.dev.
+I'm a full-stack developer with 5+ years building production apps across fintech, marketplaces, and mobile. Formerly CTO at **CocaiExpress** (~3 years), where I led the full product build and shipped to the App Store and Google Play.
 
 Currently based in Venice, Italy, finishing a BSc in Economics & Finance at Ca' Foscari University alongside my dev work.
 
