@@ -61,7 +61,7 @@ Flutter + Node.js marketplace connecting travelers with people needing items del
 
 ### 🎯 Currently
 
-- 🧠 Grinding LeetCode daily (arrays, binary search, strings) ahead of Toptal / Arc.dev vetting
+
 - 🔍 Open to select freelance engagements — full-stack web & mobile, trading systems, marketplace platforms
 - 📫 Reach me at **tensuabita0@gmail.com**
 
